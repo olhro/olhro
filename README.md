@@ -1,5 +1,5 @@
 Hi, I’m Olaf from Rostock.
-I’m not a programmer
+I’m not a programmer.
 I’m here for asking questions, mainly.
 
 <!---
